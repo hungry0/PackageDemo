@@ -17,3 +17,4 @@ Unity背包系统demo
 
 
 ![Image](https://github.com/hungry0/PackageDemo/blob/master/img-folder/index.png)
+![Image](https://github.com/hungry0/PackageDemo/blob/master/img-folder/index1.png)
