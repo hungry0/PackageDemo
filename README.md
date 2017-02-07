@@ -16,4 +16,4 @@ Unity背包系统demo
 6. 提示板功能。
 
 
-![Image]（https://github.com/hungry0/PackageDemo/blob/master/img-folder/index.png）
+![Image](https://github.com/hungry0/PackageDemo/blob/master/img-folder/index.png)
